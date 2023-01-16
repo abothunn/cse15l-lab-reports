@@ -1,4 +1,4 @@
-## Lab Report 1 - Ashton Bothun
+## Lab Report - Ashton Bothun
 Firstly, look up your CSE15L account to find your CSE15L account name, which will be an important step later. Do this by clicking [here](https://sdacs.ucsd.edu/~icc/index.php). From this site you will prompted to lookup an account, in which you should now enter your UCSD username and PID (starting with A, followed by your next seven digits). Note that the page will prompt you, asking you to chance your password, which will really, assign a password to your CSE15L account (you have the option to change your main UCSD password along with it as well if so desired). Once directed to the next page, go down under the "Additional Accounts" header and select the account starting with cs15lwi23, and ending with your custom characters. You have now looked up your CSE15L account, prompting you your username. 
 
 ---
