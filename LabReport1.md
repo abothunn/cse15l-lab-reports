@@ -21,3 +21,4 @@ Note that the last three digits before the "@" are my own digits, and will not w
 
 ![Image](pwdCommand.png)
 
+Now that you have a grasp of the idea, try running other commands like "ls", "mkdir", "cd", and "cp". And last but not least, to log out the remote server, use the command "exit". 
