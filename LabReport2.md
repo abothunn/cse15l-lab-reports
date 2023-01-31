@@ -43,5 +43,16 @@ assertArrayEquals(new int[]{1, 1, 1, 1, 1}, input1);
 }
 ```
 
+Failed case screenshot:
+![Image](failedCase.png)
+
+
+
+
+Passed case screenshot:
+![Image](passedCase.png)
+
+
+
 
 
